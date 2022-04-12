@@ -21,10 +21,10 @@ Having read tons of software engineering resumes as a FAANG interviewer, even so
 
 Thankfully, there are specific steps and requirements you can fulfill to write a good software engineer resume. From your resume structure, content, to free tools you can use to test your resume, I have collated a very concise summary of the best practices to prepare your resume for a FAANG software engineering job application:
 
-1. Set up an ATS-friendly resume template
-1. Fill up your template with well-framed content in a meaningful order
-1. Optimize your resume with prioritization and keywords
-1. Test out resume using free tools
+1. Set up an [ATS-friendly resume template](#how-to-set-up-an-ats-friendly-software-engineer-resume)
+1. Fill up your template with [well-framed content](#how-to-write-good-software-engineer-resume-content) in a meaningful order
+1. [Optimize your resume](#optimize-your-resume-with-keywords) with prioritization and keywords
+1. [Test out resume using free tools](#free-tools-to-review-your-resume)
 
 ## How to set up an ATS-friendly software engineer resume
 
